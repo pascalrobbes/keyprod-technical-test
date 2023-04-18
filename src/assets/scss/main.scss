@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;400;500&display=swap');
+
+@import './base.scss';
+
+html,body {
+    background-color: #343a40;
+    .main {
+        padding-top: 80px;
+    }
+}
+
+.appbar-logo {
+    width: auto;
+    height: 50px;
+    margin: 15px 0 0 0;
+}
+
+.bloc-wrapper {
+    background-color: #2a2e33;
+    padding: 20px;
+    border-radius: 18px;
+    box-shadow: 2px 2px 15px 2px #121213;
+}
